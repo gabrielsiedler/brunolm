@@ -1,4 +1,4 @@
-![dev-for-fun](images/logo-dev-for-fun.png)
+![dev-for-fun](./images/logo-dev-for-fun.png)
 
 I'm a Developer for Fun!
 
