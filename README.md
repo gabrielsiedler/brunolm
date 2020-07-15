@@ -6,6 +6,8 @@ I'm a Developer for Fun!
 
 See my achivements and other cool stuff on my website: [brunolm.com](https://brunolm.com/)
 
+See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
+
 ## Language (communication)
 
 - English
