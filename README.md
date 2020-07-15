@@ -40,4 +40,4 @@ See my achivements and other cool stuff on my website: [brunolm.com](https://bru
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
 
-![Twitter](https://img.shields.io/twitter/follow/brunolm7?color=1DA1F2&label=Twitter&logo=twitter&logoColor=fff&style=for-the-badge)
+[![Twitter](https://img.shields.io/twitter/follow/brunolm7?color=1DA1F2&label=Twitter&logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/BrunoLM7)
