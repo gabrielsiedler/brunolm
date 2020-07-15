@@ -1,5 +1,5 @@
-# BrunoLM [![Twitch Status](https://img.shields.io/twitch/status/brunolm?logo=twitch&logoColor=9246FF&label=Twitch)](https://www.twitch.tv/brunolm)
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/users/340760/brunolm) [![Codewars Badge](https://www.codewars.com/users/brunolm/badges/micro)](https://www.codewars.com/users/brunolm/badges/micro)
+# BrunoLM [![Twitch Status](https://img.shields.io/twitch/status/brunolm?style=for-the-badge&logo=twitch&logoColor=9246FF&label=Twitch)](https://www.twitch.tv/brunolm)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/users/340760/brunolm) [![Codewars Badge](https://www.codewars.com/users/brunolm/badges/micro)](https://www.codewars.com/users/brunolm/badges/micro)
 
 I'm a Developer for Fun!
 
@@ -48,4 +48,6 @@ See my achivements and other cool stuff on my website: https://brunolm.com/
 
 ## Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-100%-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
+
+![Twitter](https://img.shields.io/twitter/follow/brunolm7?color=1DA1F2&label=Twitter&logo=twitter&logoColor=fff&style=for-the-badge)
