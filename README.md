@@ -1,9 +1,4 @@
-# BrunoLM
-
-[![Twitch Status](https://img.shields.io/twitch/status/brunolm?logo=twitch&logoColor=fff)](https://www.twitch.tv/brunolm)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-f48024?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/340760/brunolm)](https://stackoverflow.com/users/340760/brunolm)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
-[![Codewars Badge](https://www.codewars.com/users/brunolm/badges/micro)](https://www.codewars.com/users/brunolm/badges/micro)
+# BrunoLM [![Twitch Status](https://img.shields.io/twitch/status/brunolm?logo=twitch&logoColor=9246FF&label=Twitch)](https://www.twitch.tv/brunolm) [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/users/340760/brunolm) [![Codewars Badge](https://www.codewars.com/users/brunolm/badges/micro)](https://www.codewars.com/users/brunolm/badges/micro)
 
 I'm a Developer for Fun!
 
@@ -49,3 +44,7 @@ See my achivements and other cool stuff on my website: https://brunolm.com/
 ## CodeWars
 
 - Rank <2 kyu>
+
+## Socials
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
