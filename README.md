@@ -1,6 +1,6 @@
 # BrunoLM [![Twitch Status](https://img.shields.io/twitch/status/brunolm?style=for-the-badge&logo=twitch&logoColor=9246FF&label=Twitch)](https://www.twitch.tv/brunolm)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/users/340760/brunolm)
-<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">
+[<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
 
 I'm a Developer for Fun!
 
