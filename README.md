@@ -8,6 +8,8 @@ See my achivements and other cool stuff on my website: [brunolm.com](https://bru
 
 See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
 
+![brunolm](https://github-readme-stats.vercel.app/api?username=brunolm)
+
 ## Language (communication)
 
 - English
