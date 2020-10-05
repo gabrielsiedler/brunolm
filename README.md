@@ -10,7 +10,7 @@ Join us: https://ae.studio/join-us
 
 ![brunolm](https://github-readme-stats.vercel.app/api?username=brunolm&count_private=true)
 
-![brunolm](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolm&count_private=true&layout=compact&langs_count=7&hide=html)
+![brunolm](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolm&count_private=true&layout=compact&langs_count=8&hide=html,css)
 
 ## About
 
