@@ -8,13 +8,17 @@ Join us: https://ae.studio/join-us
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff&cacheSeconds=952000)](https://stackoverflow.com/users/340760/brunolm)
 [<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
 
+![brunolm](https://github-readme-stats.vercel.app/api?username=brunolm&count_private=true)
+
+![brunolm](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolm&count_private=true&layout=compact)
+
+## About
+
 I'm a Developer for Fun!
 
 See my achivements and other cool stuff on my website: [brunolm.com](https://brunolm.com/)
 
 See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
-
-![brunolm](https://github-readme-stats.vercel.app/api?username=brunolm)
 
 ## Language (communication)
 
