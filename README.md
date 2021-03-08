@@ -1,9 +1,3 @@
-# ⚠ We're hiring at AE Studio! (Brazil remote) ⚠
-
-Join us: https://ae.studio/join-us
-
----
-
 [<img src="https://www.codewars.com/users/gabrielsiedler/badges/micro" height="28px">](https://www.codewars.com/users/gabrielsiedler)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsiedler/)](https://www.linkedin.com/in/gabrielsiedler/)
 
